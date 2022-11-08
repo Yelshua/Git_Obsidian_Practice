@@ -23,16 +23,24 @@
             "id": "f583648299b45aca",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d98cbcbfc1b276a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Chickens and Goats.md",
+                "file": "Wobbledogs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chickens and Goats.md",
+                "file": "Wobbledogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chickens and Goats.md",
+                "file": "Wobbledogs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chickens and Goats.md"
+                "file": "Wobbledogs.md"
               }
             }
           }
@@ -149,8 +157,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f583648299b45aca",
+  "active": "1d98cbcbfc1b276a",
   "lastOpenFiles": [
+    "Chickens and Goats.md",
     "Git Obsidian Practice.md"
   ]
 }

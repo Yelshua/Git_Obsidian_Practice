@@ -9,3 +9,5 @@ Sometimes goats end up in Git, too.
 These goats are in a boat. 
 
 ![[Pasted image 20221107230858.png]]
+
+#git #obsidian #chickens #goats
