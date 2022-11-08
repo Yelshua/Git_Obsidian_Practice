@@ -11,3 +11,5 @@ These goats are in a boat.
 ![[Pasted image 20221107230858.png]]
 
 #git #obsidian #chickens #goats
+
+Sometimes chickens are there, but you can't see them. 
