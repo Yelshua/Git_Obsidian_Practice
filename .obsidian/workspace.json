@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "f9ece6129c2fff2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "75925744d9eb4c27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6d8d26df2609198",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ebcfd5fdf5e25b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "29d2c05bc472ec84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "584a7ee6c92e23b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b15bc73c9e7b69f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d20c6e5601c5fbd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6a53441980aa76f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5a3d8de06be9650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "100cba277fc7404e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f649919e033b2adc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cf1d044099c06c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6aeac1a3a18c6558",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d6d8d26df2609198",
+  "lastOpenFiles": [
+    "Git Obsidian Practice.md"
+  ]
+}
